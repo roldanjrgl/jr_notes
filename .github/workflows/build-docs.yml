@@ -2,7 +2,7 @@ name: Build documentation
 
 on:
   push:
-    branches: ["main"]
+    branches: ["feature/initial_setup"]
   workflow_dispatch:
 
 env:
